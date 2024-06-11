@@ -1,0 +1,2 @@
+"this is file5.txt created in newfeature branch" 
+this is an added new line to local repository branch newfeature
